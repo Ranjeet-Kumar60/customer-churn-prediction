@@ -69,7 +69,6 @@ streamlit run app.py
 
 Visit:  
 **https://customer-churn-prediction-odfr.onrender.com**  
-(*Update with your actual deployment link*)
 
 ---
 
@@ -85,7 +84,8 @@ Visit:
 ## 📷 Screenshot
 
 ### ✅ Streamlit App Interface
-![App Screenshot](https://user-images.githubusercontent.com/your_screenshot_path_here)
+https://github.com/Ranjeet-Kumar60/customer-churn-prediction/blob/main/streamlit%20app%20screenshot/Screenshot%202025-05-01%20005454.png
+https://github.com/Ranjeet-Kumar60/customer-churn-prediction/blob/main/streamlit%20app%20screenshot/Screenshot%202025-05-01%20005519.png
 
 ---
 
