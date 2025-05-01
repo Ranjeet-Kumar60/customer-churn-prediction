@@ -38,7 +38,8 @@ contract = st.selectbox("Contract", ["Month-to-month", "One year", "Two year"])
 paperlessbilling = st.selectbox("Paperless Billing", ["Yes", "No"])
 paymentmethod = st.selectbox("Payment Method", ["Electronic check", "Mailed check", "Bank transfer (automatic)", "Credit card (automatic)"])
 monthlycharges = st.number_input("Monthly Charges", min_value=min_charge, max_value=max_charge, step=1.0)
-totalcharges = st.number_input("Total Charges", min_value=0.0, step=1.0)
+totalcharges = tenure * monthlycharges
+st.markdown(f"**Automatically Calculated Total Charges:** ₹{totalcharges:.2f}")
 
 # Input Dictionary
 input_data = {
@@ -114,3 +115,8 @@ if st.button("Predict Churn"):
             st.error("⚠️ This customer might leave the service.")
         else:
             st.success("✅ This customer is likely to stay.")
+
+
+
+
+

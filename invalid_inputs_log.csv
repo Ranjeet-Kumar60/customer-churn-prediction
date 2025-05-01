@@ -1,0 +1,10 @@
+Male,Yes,Yes,Yes,5,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,18.25,0.0,Total Charges must be positive.,2025-05-01T13:29:51.140838
+Male,Yes,Yes,Yes,3,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,18.25,0.0,Total Charges must be positive.,2025-05-01T13:34:11.966457
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,18.25,0.0,Tenure must be greater than 0.,2025-05-01T13:37:15.429420
+Male,Yes,Yes,Yes,4,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,18.25,0.0,Total Charges must be positive.,2025-05-01T13:37:30.063868
+Male,Yes,Yes,Yes,4,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,18.25,10.0,Total Charges should roughly equal Monthly Charges × Tenure. Expected around ₹73.00.,2025-05-01T13:37:37.065107
+Male,Yes,Yes,Yes,4,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,18.25,0.0,Total Charges must be positive.,2025-05-01T13:43:54.308759
+Male,Yes,Yes,Yes,4,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,18.25,0.0,Total Charges must be positive.,2025-05-01T13:51:06.247917
+Male,Yes,Yes,Yes,4,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,18.25,20.0,Total Charges should roughly equal Monthly Charges × Tenure. Expected around ₹73.00.,2025-05-01T13:51:13.082724
+Male,Yes,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,18.25,0.0,Tenure must be greater than 0.,2025-05-01T14:11:03.755947
+Male,Yes,Yes,Yes,5,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,18.25,91.25,One-year contract requires at least 12 months of tenure.,2025-05-01T14:12:06.071568
